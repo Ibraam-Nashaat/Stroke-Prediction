@@ -15,3 +15,6 @@ This machine learning algorithm is used to predict whether a patient is likely t
 10) **bmi**: body mass index
 11) **smoking_status**: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 12) **stroke**: 1 if the patient had a stroke or 0 if not
+
+## Objective:
+- We are using machine learning to predict whether a person with certain attributes would have a stroke or not.
